@@ -1,0 +1,55 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+.python-version
+
+# Archivos temporales de Excel (comienzan con ~\$)
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Cachés y resultados de tests
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs / editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Variables de entorno
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales generales
+*.bak
+*.tmp
+*.swp
