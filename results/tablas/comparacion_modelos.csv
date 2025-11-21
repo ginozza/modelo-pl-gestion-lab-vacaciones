@@ -1,0 +1,3 @@
+modelo,demanda_total,estudiantes_cubiertos,jornadas_seleccionadas
+Maximizar demanda,143.0,89.0,"['Martes mañana', 'Miercoles tarde', 'Jueves tarde']"
+Maximizar cobertura,140.0,94.0,"['Martes tarde', 'Jueves mañana', 'Viernes tarde']"
